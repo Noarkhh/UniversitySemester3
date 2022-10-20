@@ -54,3 +54,4 @@
 -- LEFT JOIN Categories ON Products.CategoryID = Categories.CategoryID
 -- GROUP BY Categories.CategoryName
 -- ORDER BY SUM(Products.UnitsInStock)
+

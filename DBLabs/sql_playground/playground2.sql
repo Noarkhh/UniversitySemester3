@@ -34,3 +34,15 @@
 -- WHERE UnitsInStock >= (SELECT AVG(UnitsInStock) from Products)
 
 -- 8.
+-- SELECT COUNT(Orders.OrderID) FROM Orders
+-- LEFT JOIN [Order Details] on Orders.OrderID = [Order Details].OrderID
+-- WHERE UnitPrice > 30
+
+-- 9.
+-- SELECT MIN(UnitPrice) AS Min, MAX(UnitPrice) AS Max, AVG(UnitPrice) AS Avg FROM Products
+-- WHERE QuantityPerUnit LIKE '%bottle%'
+
+-- 10.
+-- SELECT * FROM Products
+-- WHERE UnitPrice > (SELECT AVG(UnitPrice) FROM Products)
+

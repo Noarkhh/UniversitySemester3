@@ -1,3 +1,6 @@
 [submodule "CPLabs/lab-01-the-xkcd-waiter-problem"]
 	path = CPLabs/lab-01-the-xkcd-waiter-problem
 	url = git@gitlab.com:malpi-gaj/lab-01-the-xkcd-waiter-problem.git
+[submodule "CPLabs/lab-02-basic-cp-problems"]
+	path = CPLabs/lab-02-basic-cp-problems
+	url = git@gitlab.com:malpi-gaj/lab-02-basic-cp-problems.git

@@ -41,12 +41,10 @@
 
 -- Part 3.
 -- 1.
--- SELECT OrderID, CustomerID FROM (SELECT [O D].OrderID, COUNT([O D].ProductID) AS ProductCount, CustomerID FROM Orders
---                                  INNER JOIN [Order Details] [O D] on Orders.OrderID = [O D].OrderID
---                                  GROUP BY [O D].OrderID, CustomerID) as OIPC
--- WHERE ProductCount > 5
+-- SELECT [O D].OrderID, CustomerID FROM Orders
+-- INNER JOIN [Order Details] [O D] on Orders.OrderID = [O D].OrderID
+-- GROUP BY [O D].OrderID, CustomerID
+-- HAVING COUNT([O D].ProductID) > 5
 
 -- 2.
-SELECT [O D].OrderID, COUNT([O D].ProductID) AS ProductCount, CustomerID FROM Orders
-                                 INNER JOIN [Order Details] [O D] on Orders.OrderID = [O D].OrderID
-                                 GROUP BY [O D].OrderID, CustomerID
+-- SELECT CompanyName, CONCAT(Phone, ', ', Fax) FROM Suppliers

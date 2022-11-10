@@ -4,3 +4,6 @@
 [submodule "CPLabs/lab-02-basic-cp-problems"]
 	path = CPLabs/lab-02-basic-cp-problems
 	url = git@gitlab.com:malpi-gaj/lab-02-basic-cp-problems.git
+[submodule "CPLabs/lab-03"]
+	path = CPLabs/lab-03
+	url = git@gitlab.com:malpi-gaj/lab-03.git

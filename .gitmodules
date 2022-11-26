@@ -10,3 +10,6 @@
 [submodule "CPLabs/lab-04"]
 	path = CPLabs/lab-04
 	url = git@gitlab.com:malpi-gaj/lab-04.git
+[submodule "DBLabs/BazyBazunie"]
+	path = DBLabs/BazyBazunie
+	url = git@github.com:Noarkhh/BazyBazunie.git

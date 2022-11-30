@@ -13,3 +13,6 @@
 [submodule "DBLabs/BazyBazunie"]
 	path = DBLabs/BazyBazunie
 	url = git@github.com:Noarkhh/BazyBazunie.git
+[submodule "OOPLabs"]
+	path = OOPLabs
+	url = git@github.com:Noarkhh/OOPLabs.git

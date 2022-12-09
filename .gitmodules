@@ -16,3 +16,6 @@
 [submodule "OOPLabs"]
 	path = OOPLabs
 	url = git@github.com:Noarkhh/OOPLabs.git
+[submodule "CPLabs/lab-05"]
+	path = CPLabs/lab-05
+	url = git@gitlab.com:malpi-gaj/lab-05.git

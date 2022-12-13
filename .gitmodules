@@ -19,3 +19,6 @@
 [submodule "CPLabs/lab-05"]
 	path = CPLabs/lab-05
 	url = git@gitlab.com:malpi-gaj/lab-05.git
+[submodule "EvolutionaryGenerator"]
+	path = EvolutionaryGenerator
+	url = git@github.com:Noarkhh/EvolutionaryGenerator.git

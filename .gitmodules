@@ -22,3 +22,9 @@
 [submodule "EvolutionaryGenerator"]
 	path = EvolutionaryGenerator
 	url = git@github.com:Noarkhh/EvolutionaryGenerator.git
+[submodule "CPLabs/project-b-job-fair"]
+	path = CPLabs/project-b-job-fair
+	url = git@gitlab.com:malpi-gaj/project-b-job-fair.git
+[submodule "CPLabs/lab-06"]
+	path = CPLabs/lab-06
+	url = git@gitlab.com:malpi-gaj/lab-06.git

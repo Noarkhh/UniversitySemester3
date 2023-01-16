@@ -28,3 +28,6 @@
 [submodule "CPLabs/lab-06"]
 	path = CPLabs/lab-06
 	url = git@gitlab.com:malpi-gaj/lab-06.git
+[submodule "Transformers"]
+	path = Transformers
+	url = git@github.com:Noarkhh/Transformers.git

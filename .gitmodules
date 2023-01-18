@@ -31,3 +31,6 @@
 [submodule "Transformers"]
 	path = Transformers
 	url = git@github.com:Noarkhh/Transformers.git
+[submodule "Carcassonne"]
+	path = Carcassonne
+	url = git@github.com:Noarkhh/Carcassonne.git

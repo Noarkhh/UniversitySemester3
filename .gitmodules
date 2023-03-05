@@ -34,3 +34,6 @@
 [submodule "Carcassonne"]
 	path = Carcassonne
 	url = git@github.com:Noarkhh/Carcassonne.git
+[submodule "SlothsDataAnalysis"]
+	path = SlothsDataAnalysis
+	url = git@github.com:Noarkhh/SlothsDataAnalysis.git
